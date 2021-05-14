@@ -10,9 +10,9 @@ before_script:
   - npm install
 script:
   - npm test
-after_success:
   - npm run build
-  - firebase deploy -m "Travis deploy" --non-interactive --token $FIREBASE_TOKEN
+after_success:
+  - firebase deploy -m "Travis deploy" --non-interactive --token=${FIREBASE_TOKEN}
 branches:
   only:
     - master
