@@ -6,7 +6,7 @@
     image sharing platform
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://ibox-fbbff.web.app/">View Demo</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/mrmohit786/iBox.git
    ```
 2. Install NPM packages
    ```sh
