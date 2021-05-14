@@ -6,7 +6,7 @@
     image sharing platform
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://ibox-fbbff.web.app/">View Demo</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
