@@ -12,7 +12,7 @@ script:
   - npm test
   - npm run build
 after_success:
-  - firebase deploy -m "Travis deploy" --non-interactive --token=${FIREBASE_TOKEN}
+  - firebase deploy -m "Travis deploy" --non-interactive --token $FIREBASE_TOKEN
 branches:
   only:
     - master
